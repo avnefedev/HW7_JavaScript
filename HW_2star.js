@@ -15,7 +15,6 @@ function checkAge(age_1){
     }else {
         console.log("Fail!!!!!!")
     }
-    // console.log(typeof(age_1))
 } 
 checkAge('2')
 checkAge(18)
