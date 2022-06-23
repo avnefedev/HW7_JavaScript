@@ -1,5 +1,5 @@
 function checkAge(age_1){
-    var age_1
+    // var age_1
     let age_2 = 18 
     let age_3 = 60 
      if (age_1 < age_2){
